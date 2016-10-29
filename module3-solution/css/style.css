@@ -1,0 +1,50 @@
+
+.row{
+	width: 100%;
+}
+
+.navbar-header{
+	background-color: #bfbaba;
+}
+#collapseable-nav{
+	background-color: #bfbaba;
+}
+
+
+h1{
+	margin: 15px;
+	padding: 15px;
+	text-align: left;
+	
+}
+
+h2{
+	margin-bottom: 15px;
+	text-align: center;
+}
+h3{
+	
+    text-align: center;
+    margin: 0;
+    padding: 5px 0;
+	
+	
+}
+
+
+section{
+	border: 1px solid #000;
+	margin: 10px;
+	background-color: #bfbaba;
+}
+
+p{
+	width: 100%;
+	text-align: left;
+	padding: 10px;
+  	margin: 10px;
+  	font-family: Helvetica;
+}
+
+
+
