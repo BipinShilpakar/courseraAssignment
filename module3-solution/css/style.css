@@ -2,6 +2,9 @@
 .row{
 	width: 100%;
 }
+.navbar-toggle{
+	float: left;
+}
 
 .navbar-header{
 	background-color: #bfbaba;
